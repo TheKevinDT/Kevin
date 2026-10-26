@@ -1,0 +1,32 @@
+/* =========================================
+   Estilos responsive (media queries)
+   ========================================= */
+
+/* Tablets */
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Móviles */
+@media (max-width: 480px) {
+  .nav__menu {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-size: 1.6rem;
+  }
+
+  .section {
+    padding: 2rem 1rem;
+  }
+}
