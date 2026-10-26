@@ -3,11 +3,11 @@
    ========================================= */
 
 :root {
-  --color-primary: #2563eb;
-  --color-secondary: #1e40af;
+  --color-primary: #1f2531;
+  --color-secondary: #586281;
   --color-text: #1f2937;
-  --color-bg: #f9fafb;
-  --color-white: #ffffff;
+  --color-bg: #8d8f90;
+  --color-white: #535353;
   --font-main: "Segoe UI", system-ui, sans-serif;
   --max-width: 1100px;
 }
